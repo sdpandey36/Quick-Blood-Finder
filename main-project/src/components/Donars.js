@@ -36,6 +36,7 @@ useEffect(()=>{
 
   
   console.log(datas)
+  
     
     return(
         <>
